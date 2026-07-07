@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057729642604",
+    "project_id": "hackathon-2026-97b43",
+    "storage_bucket": "hackathon-2026-97b43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057729642604:android:b6272925bfbdefcbea5849",
+        "android_client_info": {
+          "package_name": "ec.edu.unach.rio_control_ia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIJzDwgv0FAFMJwoflFcow7Wc6hBVfkSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
