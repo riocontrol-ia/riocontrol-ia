@@ -3,7 +3,7 @@
 **Prototipo web para el seguimiento inteligente de proyectos, ejecución presupuestaria, alertas preventivas, visualización territorial y análisis municipal asistido por inteligencia artificial.**
 
 > Proyecto desarrollado para el Hackathon Innovasoft 2026.  
-> Estado actual: prototipo funcional para revisión técnica, demostración y posible validación institucional.
+> Estado actual: prototipo funcional para revisión técnica, demostración.
 
 ---
 
